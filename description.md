@@ -12,3 +12,8 @@ Researchers:
 
 - Marcus Chaves — `vinniboy021@gmail.com`
 - Fernando Viana — `nanduviana@gmail.com`
+
+Coordination:
+
+- Vendor notification: https://github.com/mathurvishal/CloudClassroom-PHP-Project/issues/9
+- VulDB submission: https://vuldb.com/submit/1017562

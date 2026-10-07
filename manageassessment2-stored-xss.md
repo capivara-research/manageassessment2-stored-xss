@@ -156,6 +156,8 @@ The NVD contains other CloudClassroom-PHP-Project findings, including CVE-2024-5
 - October 6, 2026: source reviewed at commit `5dadec098bfbbf3300d60c3494db3fb95b66e7be`.
 - October 6, 2026: independently reproduced in an isolated local environment using PHP 8.4.24 and the repository's sample database.
 - October 6, 2026: unauthenticated persistence, vulnerable HTML output, and JavaScript execution in an authenticated browser confirmed.
+- October 6, 2026: vendor notified through [GitHub issue #9](https://github.com/mathurvishal/CloudClassroom-PHP-Project/issues/9).
+- October 7, 2026: submitted to VulDB as [Submit #1017562](https://vuldb.com/submit/1017562), with CVE assignment requested.
 
 ## Credits
 
